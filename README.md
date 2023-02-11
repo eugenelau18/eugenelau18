@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eugenelau18
-- 👀 I’m interested in statistics, machine learning, and programming.
-- 🌱 I’m currently learning probability and stochastic processes.
+- 👀 I’m interested in statistics, mathematics, and programming.
 - 📫 You can reach me by email.
 
 <!---
